@@ -1,0 +1,14 @@
+#myCarousel
+{
+    background-color: aquamarine;
+}
+#myCarousel img{
+    width:50%;
+    height: 30%;
+    margin-top: 35px;
+}
+#myCarousel p
+{
+font-size: 25px;
+margin-top: 20px;
+}
